@@ -18,30 +18,36 @@ title: Navdeep Kaur
 
 ---
 
-<a id="home"></a>
-
 <table>
 <tr>
-<td width="35%">
+<td width="35%" valign="top">
 
 <img src="navdeepkaur.jpg" alt="Navdeep Kaur" width="250"/>
 
 </td>
-<td width="65%">
+<td width="65%" valign="top">
 
-# Navdeep Kaur
+<h1>Navdeep Kaur</h1>
 
-**Research Associate, The Alan Turing Institute (London)**  
-Neuro-Symbolic Artificial Intelligence · Large Language Models · Knowledge Graphs  
+<p>
+<strong>Research Associate, The Alan Turing Institute (London)</strong><br>
+Neuro-Symbolic Artificial Intelligence · Large Language Models · Knowledge Graphs
+</p>
 
-📧 **Email:** navdeepkjohal@gmail.com  
-🔗 **LinkedIn:** [navdeep-kaur-johal](https://www.linkedin.com/in/navdeep-kaur-johal/)  
-🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=duv4D7wAAAAJ&hl=en)  
-📄 **CV:** [Download](https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view)
+<p>
+📧 <strong>Email:</strong> navdeepkjohal@gmail.com<br>
+🔗 <strong>LinkedIn:</strong>
+<a href="https://www.linkedin.com/in/navdeep-kaur-johal/">navdeep-kaur-johal</a><br>
+🎓 <strong>Google Scholar:</strong>
+<a href="https://scholar.google.com/citations?user=duv4D7wAAAAJ&hl=en">Profile</a><br>
+📄 <strong>CV:</strong>
+<a href="https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view">Download</a>
+</p>
 
 </td>
 </tr>
 </table>
+
 
 I am a Research Associate at **The Alan Turing Institute, London**, working on **robust reasoning in Large Language Models using probabilistic Answer Set Programming (P-ASP) scaffolds**.
 
