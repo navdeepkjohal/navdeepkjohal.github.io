@@ -1,31 +1,51 @@
-Home | Research | Publications | Experience | Teaching | Education | CV
+---
+title: Navdeep Kaur
+---
+
+<!-- ================= NAVIGATION ================= -->
+
+<p align="center">
+  <a href="#home">Home</a> |
+  <a href="#research">Research</a> |
+  <a href="#publications">Publications</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#teaching">Teaching</a> |
+  <a href="#education">Education</a> |
+  <a href="#cv">CV</a>
+</p>
+
+---
+
+<a id="home"></a>
 
 # Navdeep Kaur
 
 **Research Associate, The Alan Turing Institute (London)**  
 Neuro-Symbolic Artificial Intelligence · Large Language Models · Knowledge Graphs  
 
-📧 navdeepkjohal@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/navdeep-kaur-johal/)  
-🎓 [Google Scholar](https://scholar.google.com/citations?user=duv4D7wAAAAJ&hl=en)  
-📄 [Curriculum Vitae](https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view)
+📧 **Email:** navdeepkjohal@gmail.com  
+🔗 **LinkedIn:** [navdeep-kaur-johal](https://www.linkedin.com/in/navdeep-kaur-johal/)  
+🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=duv4D7wAAAAJ&hl=en)  
+📄 **CV:** [Download](https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view)
 
-I am a Research Associate at The Alan Turing Institute, London, working on robust reasoning in Large Language Models using probabilistic Answer Set Programming (P-ASP) scaffolds.
+I am a Research Associate at **The Alan Turing Institute, London**, working on **robust reasoning in Large Language Models using probabilistic Answer Set Programming (P-ASP) scaffolds**.
 
-My research lies at the intersection of neuro-symbolic AI, knowledge graphs, and uncertainty-aware reasoning, with a focus on designing AI systems that are interpretable, logically grounded, and robust beyond pattern matching.
+My research lies at the intersection of **neuro-symbolic AI, knowledge graphs, and uncertainty-aware reasoning**, with a focus on building **interpretable, logically grounded, and robust AI systems**.
 
+---
 
 ## Updates
 
-- **Nov 2025** — Our paper *DecompSR: A Dataset for Decomposed Analyses of Compositional Multihop Spatial Reasoning* is available on arXiv.
-- **Apr 2025** — Paper *An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning* accepted at **SCI-FM Workshop (ICLR 2025)**.
+- **Nov 2025** — *DecompSR: A Dataset for Decomposed Analyses of Compositional Multihop Spatial Reasoning* available on arXiv.
+- **Apr 2025** — *Conformal Prediction in LLMs with ASP Scaffolds* accepted at **SCI-FM (ICLR 2025 Workshop)**.
 - **May 2024** — Joined **The Alan Turing Institute** as Research Associate.
-- **May 2024** — Paper *DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion* accepted at **ACL 2024**.
-- **Jun 2023** — Completed Postdoc at **IIT Delhi** (DAIR Lab).
-- **May 2023** - Our paper *NeuSTIP: A Novel Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs* is now available [here](https://arxiv.org/abs/2305.11301)
-- **Mar 2022** - I have joined as a post-doctoral Researcher at IIT Delhi under **Prof Mausam**.
-- **Jan 2021 - Feb 2022** - I took professional sabbatical to rejuvenate. During this time, I practiced yoga and meditation at Rishikesh, India.
+- **May 2024** — *DynaSemble* accepted at **ACL 2024**.
+- **Jun 2023** — Completed Postdoc at **IIT Delhi (DAIR Lab)**.
 - **Dec 2020** — PhD in Computer Science, **UT Dallas**.
+
+---
+
+<a id="research"></a>
 
 ## Research Interests
 
@@ -37,15 +57,19 @@ My research lies at the intersection of neuro-symbolic AI, knowledge graphs, and
 - Temporal & Relational Learning  
 - Lifted & Relational Deep Learning Models  
 
+---
+
+<a id="publications"></a>
+
 ## Publications
 
 ### Thesis
 **Navdeep Kaur**  
 *Efficient Combination of Neural and Symbolic Learning for Relational Data*  
-PhD Dissertation, UT Dallas, 2020
+PhD Dissertation, The University of Texas at Dallas, 2020
 
 ### Journals
-- Kaur, N., Kunapuli, G., Natarajan, S.  
+- **Kaur, N.**, Kunapuli, G., Natarajan, S.  
   *Non-Parametric Learning of Lifted Restricted Boltzmann Machines*  
   **Journal of Approximate Reasoning**, 2020
 
@@ -63,6 +87,10 @@ PhD Dissertation, UT Dallas, 2020
 - **Kaur, N.**, et al.  
   *Conformal Prediction in LLMs with ASP Scaffolds* — **ICLR 2025 Workshop**
 
+---
+
+<a id="experience"></a>
+
 ## Experience
 
 **Research Associate** — The Alan Turing Institute, London (2024–Present)  
@@ -71,23 +99,43 @@ PhD Dissertation, UT Dallas, 2020
 - Built **DecompSR**, a benchmark for long-horizon compositional reasoning  
 
 **Postdoctoral Researcher** — IIT Delhi (2022–2023)  
-- Neuro-symbolic KGC models with +36% improvement in temporal prediction  
+- Neuro-symbolic KGC models with **+36% improvement** in temporal prediction  
 - ACL & EMNLP publications  
 
 **Assistant Professor** — SBBS University, India (2024)  
 - Taught graduate NLP and LLM-focused courses  
 
 **PhD Researcher** — UT Dallas (2018–2020)  
-- Neuro-symbolic learning, lifted RBMs, relational models
+- Neuro-symbolic learning, lifted RBMs, relational models  
 
-  ## Education
+---
 
-**PhD, Computer Science** — UT Dallas (2020)  
+<a id="teaching"></a>
+
+## Teaching
+
+- **Natural Language Processing (Graduate Level)** — SBBS University  
+- Guest lectures on **Large Language Models & AI Reasoning**
+- Teaching Assistant: **Machine Learning**, **Web Programming Languages** (UT Dallas)
+
+---
+
+<a id="education"></a>
+
+## Education
+
+**PhD, Computer Science** — The University of Texas at Dallas (2020)  
 Advisor: Prof. Sriraam Natarajan  
 
 **MS, Computer Science** — Indiana University Bloomington  
 
-**MTech / BTech, Computer Science** — Punjab Technical University
+**MTech / BTech, Computer Science** — Punjab Technical University  
 
-  
+---
+
+<a id="cv"></a>
+
+## Curriculum Vitae
+
+📄 **[Download my CV (PDF)](https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view)**
 
