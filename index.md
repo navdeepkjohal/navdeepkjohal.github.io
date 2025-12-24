@@ -20,6 +20,15 @@ title: Navdeep Kaur
 
 <a id="home"></a>
 
+<table>
+<tr>
+<td width="35%">
+
+<img src="navdeepkaur.jpg" alt="Navdeep Kaur" width="250"/>
+
+</td>
+<td width="65%">
+
 # Navdeep Kaur
 
 **Research Associate, The Alan Turing Institute (London)**  
@@ -29,6 +38,10 @@ Neuro-Symbolic Artificial Intelligence · Large Language Models · Knowledge Gra
 🔗 **LinkedIn:** [navdeep-kaur-johal](https://www.linkedin.com/in/navdeep-kaur-johal/)  
 🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=duv4D7wAAAAJ&hl=en)  
 📄 **CV:** [Download](https://drive.google.com/file/d/1-9eBdvy5-9PlZ82XyrUpwbufcoB0O2Zh/view)
+
+</td>
+</tr>
+</table>
 
 I am a Research Associate at **The Alan Turing Institute, London**, working on **robust reasoning in Large Language Models using probabilistic Answer Set Programming (P-ASP) scaffolds**.
 
